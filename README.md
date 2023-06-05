@@ -25,7 +25,7 @@ Note: Before installing make sure that you have 'Node.js' & 'git' installed in y
 * Clone repositary
 
 ```bash
-git clone https://github.com/kumarvikramshahi/forcucekians-frontend.git
+git clone https://github.com/shreenidhi45/forcucekians-frontend.git
 ```
 * Change directory to repo
 
